@@ -54,7 +54,7 @@ class _home_pageState extends State<home_page> {
                             screenHeight * 0.15, 3),
                         customcard(const Color(0xFFFFFFFF), screenWidth * 0.9,
                             screenHeight * 0.15, 5),
-                        customcard(const Color(0xFFB0BEC5), screenWidth * 0.8,
+                        customcard(const Color(0xFFB0BEC5), screenWidth * 0.9,
                             screenHeight * 0.15, 3),
                       ],
                     ),
